@@ -1,12 +1,16 @@
 h1,h2 {
-    color:black;
+    color:white;
     background-color:hotpink;
-    font-size:large;
+    font: size 200px;
     height:auto;
+    margin: 25px;
+    text-align:center;
+    padding: 30px;
 }
 
 h3 {
     color:hotpink;
     font-family: cursive, serif;
-    font-size:medium;
+    font: size 150px;;
+    text-align:center;
 }
