@@ -1,9 +1,11 @@
 h1,h2 {
     color:black;
     background-color:hotpink;
+    font-size:large;
 }
 
 h3 {
     color:hotpink;
     font-family: cursive, serif;
+    font-size:medium;
 }
