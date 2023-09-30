@@ -1,7 +1,7 @@
 h1,h2 {
     color:white;
     background-color:hotpink;
-    font: size 200px;
+    font-size: 26px;
     height:auto;
     margin: 25px;
     text-align:center;
@@ -11,6 +11,13 @@ h1,h2 {
 h3 {
     color:hotpink;
     font-family: cursive, serif;
-    font: size 250px;;
+    font-size: 22px;
     text-align:center;
+}
+
+img {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin:auto
 }
