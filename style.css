@@ -23,6 +23,6 @@ img {
 }
 
 a:visited {
-  color: forestgreen;
-  text-decoration-color: hotpink;
+  color: red;
+  text-decoration-color: rgb(249, 108, 178);
 }
